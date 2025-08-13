@@ -1,0 +1,5 @@
+Student name: sri aditya
+Course: BCA
+Institution: Aditya degree college
+Email: sriaditya@gmaail.com
+Number:12345789
